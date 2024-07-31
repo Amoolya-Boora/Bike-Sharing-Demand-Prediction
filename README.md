@@ -43,10 +43,6 @@ The dataset used for this project is `day.csv`, which contains daily bike rental
 
 ## Steps to Run the Notebook
 
-1. Clone the repository:
-   ```sh
-   git clone <repository-link>
-   cd <repository-directory>
    Open the Jupyter notebook:
    jupyter notebook bike_sharing_demand_prediction.ipynb
    Run the cells in the notebook to see the data preprocessing, EDA, model building, and evaluation steps.
